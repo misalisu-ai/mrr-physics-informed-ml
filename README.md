@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository presents a **Physics-Informed Machine Learning (PIML)** framework for modeling and inverse design of silicon photonic **Micro-Ring Resonators (MRRs)**.
+This repository presents a **Physics-Augmented Machine Learning (PAML)** framework for modeling and inverse design of silicon photonic **Micro-Ring Resonators (MRRs)**.
 
 The project demonstrates how **machine learning, when guided by physical laws**, can replace expensive electromagnetic simulations and enable **fast, interpretable, and accurate photonic device design**.
 
@@ -12,7 +12,7 @@ This work bridges **Computer Science (ML + XAI)** and **Nanophotonics**, alignin
 
 ## 🚀 Key Highlights
 
-* **Physics-Informed Feature Engineering**
+* **Physics-Inspired Feature Engineering**
   Derived features such as Free Spectral Range (FSR), Round-trip Length, and Effective Area improve learning efficiency and physical consistency.
 
 * **High-Fidelity Modeling**
