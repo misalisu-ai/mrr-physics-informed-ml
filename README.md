@@ -48,7 +48,7 @@ The dataset is synthetically generated using simplified photonic equations:
 
 * **Targets**
 
-  * Resonance Wavelength ( \lambda_{res} )
+  * Resonance Wavelength $\lambda_{res}$
   * Quality Factor ( Q )
 
 ---
