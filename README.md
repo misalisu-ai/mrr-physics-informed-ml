@@ -6,7 +6,7 @@ This repository presents a **Physics-Informed Machine Learning (PIML)** framewor
 
 The project demonstrates how **machine learning, when guided by physical laws**, can replace expensive electromagnetic simulations and enable **fast, interpretable, and accurate photonic device design**.
 
-This work bridges **Computer Science (ML + XAI)** and **Nanophotonics**, aligning with research directions in advanced computational photonics (e.g., KAUST).
+This work bridges **Computer Science (ML + XAI)** and **Nanophotonics**, aligning with research directions in advanced computational photonics.
 
 ---
 
@@ -106,11 +106,7 @@ This confirms alignment between **ML predictions and optical theory**.
 
 ---
 
-### 🔷 SHAP Analysis (Local + Global Explainability)
-
-#### SHAP Summary Plot
-
-![SHAP Summary](outputs/figures/shap_summary.png)
+### 🔷 SHAP Analysis 
 
 #### SHAP Waterfall Plot (Single Prediction)
 
@@ -136,8 +132,8 @@ The model can solve the inverse problem:
 
 **Target:**
 
-* ( Q = 50,000 )
-* ( \lambda = 1550nm )
+* $Q = 50,000$
+* $\lambda = 1550\text{ nm}$
 
 **Optimized Design:**
 
