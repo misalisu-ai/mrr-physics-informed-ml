@@ -37,7 +37,7 @@ The dataset is synthetically generated using simplified photonic equations:
 
 * **Geometric Parameters**
 
-  * Radius: (5\mu m \rightarrow 50\mu m)
+  * $$ Radius: (5\mu m \rightarrow 50\mu m) $$
   * Width: (300nm \rightarrow 800nm)
   * Gap: (50nm \rightarrow 500nm)
 
