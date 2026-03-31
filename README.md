@@ -53,7 +53,7 @@ The dataset is synthetically generated using simplified photonic equations:
 
 ---
 
-### 2. Physics-Informed Feature Engineering
+### 2. Physics-Inspired Feature Engineering
 
 We transform raw geometry into physically meaningful representations:
 
@@ -188,7 +188,7 @@ This approach:
 
 This project demonstrates readiness for:
 
-* Physics-Informed Machine Learning (PIML)
+* Physics-Augmented Machine Learning (PAML)
 * Photonic inverse design
 * Explainable AI in scientific domains
 
