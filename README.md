@@ -36,16 +36,15 @@ This work bridges **Computer Science (ML + XAI)** and **Nanophotonics**, alignin
 The dataset is synthetically generated using simplified photonic equations:
 
 * **Geometric Parameters**
-
-  * $$ \text{Radius: } 5\mu\text{m} \rightarrow 50\mu\text{m} $$
-  * Width: (300nm \rightarrow 800nm)
-  * Gap: (50nm \rightarrow 500nm)
+    * Radius: $5\mu\text{m} \rightarrow 50\mu\text{m}$
+    * Width: $300\text{nm} \rightarrow 800\text{nm}$
+    * Gap: $50\text{nm} \rightarrow 500\text{nm}$
 
 * **Physics Modeling**
+    * Effective index: $n_{eff}(w)$
+    * Coupling: $e^{-g/\alpha}$
+    * Loss: bending + scattering
 
-  * Effective index: (n_{eff}(w))
-  * Coupling: (e^{-g/\alpha})
-  * Loss: bending + scattering
 
 * **Targets**
 
