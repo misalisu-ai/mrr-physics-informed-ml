@@ -57,35 +57,20 @@ The dataset is synthetically generated using simplified photonic equations:
 
 We transform raw geometry into physically meaningful representations:
 
-* Round-trip length:
-  [
-  L = 2\pi R
-  ]
+* **Round-trip length**: $L = 2\pi R$
 
-* Free Spectral Range:
-  [
-  FSR = \frac{c}{n_g L}
-  ]
+* **Free Spectral Range**: $FSR = \frac{c}{n_g L}$
 
-* Coupling normalization:
-  [
-  g_{norm} = \frac{g}{w}
-  ]
+* **Coupling normalization**: $g_{\text{norm}} = \frac{g}{w}$
 
-* Mode confinement:
-  [
-  A_{eff} = w \cdot h
-  ]
+* **Mode confinement**: $A_{\text{eff}} = w \cdot h$
 
 ---
 
 ### 3. Model Architecture
 
-* Model: **Random Forest Regressor**
-* Target transformation:
-  [
-  Q \rightarrow \log_{10}(Q)
-  ]
+* **Model**: Random Forest Regressor
+* **Target transformation**: $Q \rightarrow \log_{10}(Q)$
 
 **Rationale:**
 
